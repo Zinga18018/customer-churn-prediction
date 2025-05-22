@@ -20,8 +20,8 @@ The model achieves high accuracy through:
 - Optimized hyperparameters
 
 ### Performance Metrics
-- Accuracy: >90%
-- ROC AUC: >0.90
+- Accuracy: >80%
+- ROC AUC: >0.80
 - Balanced precision and recall for both classes
 
 ## Model Architecture
